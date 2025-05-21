@@ -31,9 +31,7 @@ Lag columns enable faster and simpler DAX measures when calculating period compa
 
 Feel free to fork and contribute improvements, fixes, or additional features by submitting a pull request.
 
-## License
 
-This project is licensed under the MIT License.
 
 ---
 
