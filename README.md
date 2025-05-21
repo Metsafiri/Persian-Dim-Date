@@ -67,10 +67,8 @@ This project is licensed under the MIT License.
 
 شما می‌توانید این مخزن را فورک کرده و بهبودها، رفع اشکال یا ویژگی‌های جدید را از طریق ارسال pull request اضافه کنید.
 
-## مجوز
 
-این پروژه تحت مجوز MIT منتشر شده است.
 
 ---
 
-Created by [Your Name]  
+Created by Mehdi Safiri
